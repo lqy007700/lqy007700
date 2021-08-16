@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ## Tech Stack 💻
 
+
+![lqy007700's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lqy007700&show_icons=true&count_private=true&theme=gotham)
