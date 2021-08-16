@@ -19,3 +19,6 @@ Here are some ideas to get you started:
 
 
 ![lqy007700's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lqy007700&layout=compact&hide_border=true&langs_count=10)
+
+
+![info](https://github-readme-stats.vercel.app/api?username=CasterWx&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
